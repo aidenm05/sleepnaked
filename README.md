@@ -48,3 +48,51 @@ Users create entries, arrange them spatially, and interact through nods, pins, s
 ---
 
 ## Repository Structure
+
+---
+
+## Documentation
+
+The full product specification is broken into:
+
+- `docs/product-spec.md` — Complete system definition  
+- `docs/user-flows.md` — All user interaction flows  
+- `docs/wireframes.md` — Screen-level definitions  
+- `docs/architecture.md` — System architecture (to be defined)  
+
+---
+
+## Status
+
+Concept and product specification complete.  
+Implementation has not yet begun.
+
+---
+
+## Goals
+
+- Reduce performance-driven social behavior  
+- Encourage creation over consumption  
+- Build identity through taste and work  
+- Support meaningful, low-noise interaction  
+
+---
+
+## Contributing
+
+This project is currently in the design phase.
+
+Contributions are welcome in:
+
+- Product thinking
+- Interaction design
+- Frontend architecture
+- Systems design
+
+See `CONTRIBUTING.md` for details.
+
+---
+
+## License
+
+TBD
